@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MAPD711_Test" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi ="1">@color/black</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MAPD711_Test" parent="Base.Theme.MAPD711_Test" />
+
+    <style name="RadioButtonStyle" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+    </style>
+</resources>

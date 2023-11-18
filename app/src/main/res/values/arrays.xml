@@ -1,0 +1,16 @@
+<resources>
+    <array name="time_of_day_array">
+        <item>Weekday 12:00 AM to 6:00 AM</item>
+        <item>Weekday 6:00 AM to 7:00 AM</item>
+        <item>Weekday 7:00 AM to 9:30 AM</item>
+        <item>Weekday 9:30 AM to 10:30 AM</item>
+        <item>Weekday 10:30 AM to 2:30 PM</item>
+        <item>Weekday 2:30 PM to 3:30 PM</item>
+        <item>Weekday 3:30 PM to 6:00 PM</item>
+        <item>Weekday 6:00 PM to 7:00 PM</item>
+        <item>Weekday 7:00 PM to 12:00 AM</item>
+        <item>Weekends and Holidays 12:00 AM to 11:00 AM</item>
+        <item>Weekends and Holidays 11:00 AM to 7:00 PM</item>
+        <item>Weekends and Holidays 7:00 PM to 12:00 AM</item>
+    </array>
+</resources>
